@@ -1,0 +1,12 @@
+total 120
+-rw-rw-r-- 1 annapinchuk annapinchuk   469 May 22 06:08 examples
+-rw-rw---- 1 annapinchuk annapinchuk     0 May 22 06:59 file
+-rw-rw-r-- 1 annapinchuk annapinchuk  1074 May 22 06:08 key.c
+-rw-rw-r-- 1 annapinchuk annapinchuk   216 May 22 06:08 Makefile
+-rw-rw-r-- 1 annapinchuk annapinchuk   425 May 22 06:08 readme.md
+-rw-rw-r-- 1 annapinchuk annapinchuk    29 May 22 06:08 README.md
+-rwxrwxr-x 1 annapinchuk annapinchuk 17256 May 22 06:59 shell
+-rw-rw-r-- 1 annapinchuk annapinchuk  2622 May 22 06:59 shell2.c
+-rw-rw-r-- 1 annapinchuk annapinchuk  2687 May 22 06:08 shell3.c
+-rw-rw-r-- 1 annapinchuk annapinchuk 12807 May 22 06:08 shell.c
+-rw-rw-r-- 1 annapinchuk annapinchuk 54501 May 22 06:08 task1.pdf
